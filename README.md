@@ -1,4 +1,4 @@
-Library Management System
+Library Management System:
 Welcome to my Library Management System! This project features a simple implementation of a library system, complete with the ability to manage books, borrow and return them, and even handle digital downloads.
 
 Overview
